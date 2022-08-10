@@ -54,9 +54,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Alvis Lai - alvislaish@gamil.com, 
-Kenny Chan - kchan257@my.centennialcollege.ca
+Alvis Lai - alvislaish@gamil.com
 
-Project Link: [https://github.com/AlvisLai/Surveillance-Camera-to-check-Live-footage](https://github.com/AlvisLai/Surveillance-Camera-to-check-Live-footage)
+Project Link: [https://github.com/AlvisLai/smart-robot-car](https://github.com/AlvisLai/smart-robot-car)
 
    
